@@ -2,11 +2,11 @@
 
 ### Training and labs: 
 
-  1. Udemu CKA with practice tests from Mumshad (1 Days).
+  1. Udemy CKA with practice tests from Mumshad (1 Days).
      - Do once end-to-end if have no perior experience with k8s. If not clear, fill the gap using the list below
      - Do it again before exam day. Time boxed to 50% of allowed time in the lab (1day)
 
-  2. Create your own k8s lab using virtualbox and kubeadm.
+  2. Create your own k8s lab using virtualbox and kubeadm (1 day)
      - Excercise: Bootstrap cluster, adding/removing worker nodes, upgrade, change config files kube-apiserver and kubelet, backup-restore etcd
 
   3. RTFM
@@ -18,6 +18,7 @@
      - Not very relevant to the exam since the handbook asks to use kubeadm
 
 ### Reading list to fill the gap and Exam readiness points:
+*Chew this again and again until full*
 
 1. Create control plane, join worker nodes, upgrade kubeapi and kubectl version
    - https://kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/
