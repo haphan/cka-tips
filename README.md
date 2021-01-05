@@ -15,7 +15,7 @@
 
   3. (Don't) Kubernetes the hard way from Kelsey Hightower
      - Too informative for the purpose of passing the exam. Good if you want to understand how to manually bootstrap control plane and workers.
-     - Not very relevant to the exam since handbook askes to use kubeadm
+     - Not very relevant to the exam since the handbook asks to use kubeadm
 
 ### Reading list to fill the gap and Exam readiness points:
 
