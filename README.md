@@ -40,7 +40,7 @@ kubectl apply -f "https://cloud.weave.works/k8s/net?k8s-version=$(kubectl versio
 4. Etcd back up and restore.  
   - https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/
   - How do we verify the backup is correct?
-  - How to quickly find the etcd endpoint and correct cert?  (Tips: ps aux kube-apiserver | grep etcd )
+  - How to quickly find the etcd endpoint and correct cert?  (Tips: ps aux | grep kube-apiserver | grep etcd )
 
 5. Must be very familar and comfortable using jsonpath to output to text file (3-4 questions on this topic)
    - See https://kubernetes.io/docs/reference/kubectl/cheatsheet/
